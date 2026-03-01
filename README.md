@@ -259,6 +259,6 @@ java Client
 
 ## Author
 
-T. Krishna Chaitanya
-CB.EN.U4CSE19153
-Tourism & Catering Department – Railway Zone Case Study
+- T. Krishna Chaitanya
+- CB.EN.U4CSE19153
+- Tourism & Catering Department – Railway Zone Case Study
