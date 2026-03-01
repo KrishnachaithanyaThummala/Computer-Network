@@ -217,21 +217,21 @@ Implemented ARQ protocol simulation using Java:
 
 # 📁 Project Structure
 
-├── Catering_server.py
-├── Catering_client1.py
-├── Catering_client2.py
-├── Server.java
-├── Client.java
-├── CATERING-DEPARTMENT.csv
-├── items_list.csv
-└── README.md
+- ├── Catering_server.py
+- ├── Catering_client1.py
+- ├── Catering_client2.py
+- ├── Server.java
+- ├── Client.java
+- ├── CATERING-DEPARTMENT.csv
+- ├── items_list.csv
+- └── README.md
 
 
 # 🚀 How to Run
 
 ## 🔹 Run Python Server
-```bash
-python Catering_server.py
+
+`python Catering_server.py`
 
 🔹 Run Python Client
 python Catering_client1.py
@@ -245,27 +245,19 @@ java Client
 
 ## Concepts Covered
 
-Computer Network Architecture
-
-WAN, LAN, VPN
-
-VLAN Configuration
-
-RIP & OSPF Routing
-
-Socket Programming
-
-File Handling with CSV
-
-Multithreading
-
-Go-Back-N ARQ
-
-Cloud Virtualization
+- Computer Network Architecture
+- WAN, LAN, VPN
+- VLAN Configuration
+- RIP & OSPF Routing
+- Socket Programming
+- File Handling with CSV
+- Multithreading
+- Go-Back-N ARQ
+- Cloud Virtualization
 
 
 
-Author
+## Author
 
 T. Krishna Chaitanya
 CB.EN.U4CSE19153
